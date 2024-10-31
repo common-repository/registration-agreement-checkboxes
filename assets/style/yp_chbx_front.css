@@ -1,0 +1,31 @@
+/*! Front stylesheet */
+.gbyp_checkboxes_div_wrapper {
+  margin: 10px 0 25px; }
+  .gbyp_checkboxes_div_wrapper .yp_chbx_copy {
+    margin: 15px auto 10px;
+    background: #f0f0f0;
+    padding: 5px 10px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; }
+    .gbyp_checkboxes_div_wrapper .yp_chbx_copy > p {
+      font-size: 11pt; }
+  .gbyp_checkboxes_div_wrapper > p {
+    font-size: 10pt;
+    margin: 0 0 10px 10px;
+    color: #888;
+    line-height: 12.5pt; }
+    .gbyp_checkboxes_div_wrapper > p .checkbox__req {
+      color: red;
+      font-size: 13pt; }
+    .gbyp_checkboxes_div_wrapper > p label {
+      cursor: pointer;
+      margin-left: 5px; }
+      .gbyp_checkboxes_div_wrapper > p label:hover {
+        color: #555; }
+    .gbyp_checkboxes_div_wrapper > p label:first-child {
+      color: #555;
+      font-size: 12pt; }
+  .gbyp_checkboxes_div_wrapper.inside {
+    margin: 35px 0; }
+    .gbyp_checkboxes_div_wrapper.inside > p {
+      font-size: 11pt; }

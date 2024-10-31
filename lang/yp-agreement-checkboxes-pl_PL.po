@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pako\n"
+"POT-Creation-Date: 2020-02-24 08:59+0100\n"
+"PO-Revision-Date: 2020-02-24 09:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: Young Pros\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__;__;esc_attr__\n"
+"X-Poedit-SearchPath-0: classes\n"
+"X-Poedit-SearchPath-1: assets/inc\n"
+
+#: assets/inc/functions.php:60
+msgid "You must agree to all terms"
+msgstr "Musisz zaakceptować wszystkie wymagane warunki"
+
+#: classes/class-gbyp-registration-checkboxes.php:102
+msgid "Registration Checkboxes"
+msgstr "Pola wyboru zgód (RODO)"
+
+#: classes/class-gbyp-registration-checkboxes.php:103
+msgid ""
+"is dedicated to extend WooCommerce functionality so it requires that plugin "
+"to be activated."
+msgstr ""
+"rozszerzają funkcjonalność wtyczki WooCommerce, więc jest wymagane, aby "
+"tamta wtyczka była aktywna."
+
+#: classes/class-gbyp-registration-checkboxes.php:118
+msgid "Security check - validation error 0 booyaa!"
+msgstr ""
+
+#: classes/class-gbyp-registration-checkboxes.php:128
+msgid "The double password feature has been enabled and is now active."
+msgstr "Opcja podwójnego hasła została włączona i jest aktywna."
+
+#: classes/class-gbyp-registration-checkboxes.php:165
+msgid ""
+"Woocommerce's \"Automatically generate customer password\" must be disabled "
+"in order for this very plugin to work properly."
+msgstr ""
+"Opcja WooCommerce'a \"Podczas tworzenia konta, automatycznie generuj hasło "
+"do konta\" musi być wyłączona, aby wtyczka działała poprawnie."
+
+#: classes/class-gbyp-registration-checkboxes.php:166
+msgid "Would you like to disable this option?"
+msgstr "Czy wyłączyć tę opcję?"
+
+#: classes/class-gbyp-registration-checkboxes.php:168
+msgid "Yes, disable auto-password generator"
+msgstr "Tak, wyłącz automatyczne generowanie hasła."
+
+#: classes/class-gbyp-registration-checkboxes.php:219
+msgid "Agreement checkboxes"
+msgstr "Pola wyboru zgód  (RODO)"
+
+#: classes/class-gbyp-registration-checkboxes.php:220
+msgid "Double password"
+msgstr "Podwójne hasło"
+
+#: classes/class-gbyp-registration-checkboxes.php:231
+msgid "Double password feature"
+msgstr "Opcja podwójnego hasła"
+
+#: classes/class-gbyp-registration-checkboxes.php:232
+msgid "Turn on/off the double password validation"
+msgstr "Włącz / wyłącz opcję podwójnego hasła"
+
+#: classes/class-gbyp-registration-checkboxes.php:236
+#: classes/class-gbyp-registration-checkboxes.php:300
+msgid "No"
+msgstr "Nie"
+
+#: classes/class-gbyp-registration-checkboxes.php:236
+#: classes/class-gbyp-registration-checkboxes.php:300
+msgid "Yes"
+msgstr "Tak"
+
+#: classes/class-gbyp-registration-checkboxes.php:253
+msgid "Checkboxes copy"
+msgstr "Pola wyboru zgód - opis dla użytkownika"
+
+#: classes/class-gbyp-registration-checkboxes.php:254
+msgid "Enter a description of the Agreement checkboxes here (optional)"
+msgstr "Dodaj opis Pól Zgód (nie wymagane)"
+
+#: classes/class-gbyp-registration-checkboxes.php:265
+msgid "Edit checkboxes"
+msgstr "Edytuj Pola wyboru zgód  (RODO)"
+
+#: classes/class-gbyp-registration-checkboxes.php:270
+msgid ""
+"<div class=\"yp_checkboxes_legend\">\n"
+"\t\t\t\t<p>Every entry is to be stored in a separate line.<br />Format the "
+"checkboxes by following this pattern:\n"
+"\t\t\t\t<br><em>[checkbox_name] * |  Description, regular HTML is allowed "
+"here</em> where:</p>\n"
+"\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Opening square bracket<br /"
+">\n"
+"\t\t\t\t<strong>checkbox_name</strong> Checkbox name - only letter and "
+"underscores ( _ ); no spaces, numbers, special characters - just plain "
+"text<br />\n"
+"\t\t\t\t<strong>]</strong> Closing square bracket<br />\n"
+"\t\t\t\t<strong class=\"yp_star\">*</strong> If the checkbox is mandatory to "
+"be checked enter asterisk right after closing bracket<br />\n"
+"\t\t\t\t<strong>|</strong> The pipe character to separate checkbox name from "
+"checkbox content<br />\n"
+"\t\t\t\t<strong>checkbox copy</strong> - regular HTML is allowed here. Do "
+"NOT copy text from other visual editors as they tend to attach hidden "
+"elements along with the text</p></div>"
+msgstr ""
+"<div class=\"yp_checkboxes_legend\">\n"
+"\t\t\t\t<p>Każde pole (checkbox) musi być opisany w osobnej linii.<br /"
+">Zapisz pola wyboru wg poniższego wzoru:\n"
+"\t\t\t\t<br><em>[nazwa_pola_wyboru] * | Treść (opis) pola; format HTML jest "
+"tu dozwolony</em> gdzie:</p>\n"
+"\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Otwierający nawias "
+"kwadratowyt<br />\n"
+"\t\t\t\t<strong>nazwa_pola_wyboru</strong> Nazwa - wyłącznie litery i "
+"podkreślniki ( _ ); żadnych spacji, cyfr lub znaków specjalnych wyłącznie "
+"czysty tekst<br />\n"
+"\t\t\t\t<strong>]</strong> Zamykający nawias kwadratowy<br />\n"
+"\t\t\t\t<strong class=\"yp_star\">*</strong> Jeśli zaznaczenie pola "
+"(checkboxa) jest wymagane, dodaj gwiazdkę tuż po zamykającym nawiasie "
+"kwadratowym<br />\n"
+"\t\t\t\t<strong>|</strong> Kreska pionowa (pipe) do oddzielenia nazwy od "
+"treści pola wyboru<br />\n"
+"\t\t\t\t<strong>Treść pola (checkboxa)</strong> - dozwolony jest format "
+"HTML. NIE WKLEJAJ treści z innych edytorów (np. Worda), które wraz z "
+"kopiowanym tekstem przenoszą ukryte elementy HTML</p></div>"
+
+#: classes/class-gbyp-registration-checkboxes.php:296
+msgid "Display on the Front?"
+msgstr "Wyświetlić na stronie?"
+
+#: classes/class-gbyp-registration-checkboxes.php:297
+msgid ""
+"Mark YES if you are sure you want to publish the checkboxes on the front page"
+msgstr "Zaznacz TAK jeśli masz pewność, że chcesz upublicznić zgody"
+
+#: classes/class-gbyp-registration-checkboxes.php:386
+msgid "You must re-type your password"
+msgstr "Musisz powtórzyć hasło"
+
+#: classes/class-gbyp-registration-checkboxes.php:391
+msgid "Passwords provided don't match"
+msgstr "Hasła nie pasują do siebie"
+
+#: classes/class-gbyp-registration-checkboxes.php:405
+msgid "Visualization of the checkboxes"
+msgstr "Wizualizacja pól wyboru"
+
+#: classes/class-gbyp-registration-checkboxes.php:423
+#: classes/class-gbyp-registration-checkboxes.php:429
+msgid "Re-type password"
+msgstr "Powtórz hasło"
+
+#~ msgid "Security check - validation error!"
+#~ msgstr "Kontrola bezpieczeństwa - wystąpił błąd!"
+
+#~ msgid ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t<p>Every entry is to be stored in a separate line.<br />Format the "
+#~ "checkboxes by following this pattern:\n"
+#~ "\t<br><em>[checkbox_name] * |  Description, regular HTML is allowed here</"
+#~ "em> where:</p>\n"
+#~ "\t<p class=\"yp_legend\"><strong>[</strong> Opening square bracket<br />\n"
+#~ "\t<strong>checkbox_name</strong> Checkbox name - only letter and "
+#~ "underscores ( _ ); no spaces, numbers, special characters - just plain "
+#~ "text<br />\n"
+#~ "\t<strong>]</strong> Closing square bracket<br />\n"
+#~ "\t<strong class=\"yp_star\">*</strong> If the checkbox is mandatory to be "
+#~ "checked enter asterisk right after closing bracket<br />\n"
+#~ "\t<strong>|</strong> The pipe character to separate checkbox name from "
+#~ "checkbox content<br />\n"
+#~ "\t<strong>checkbox copy</strong> - regular HTML is allowed here. Do NOT "
+#~ "copy text from other visual editors as they tend to attach hidden "
+#~ "elements along with the text</p></div>"
+#~ msgstr ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t<p>Każde pole (checkbox) musi być opisany w osobnej linii.<br />Zapisz "
+#~ "pola wyboru wg poniższego wzoru:\n"
+#~ "\t<br><em>[nazwa_pola_wyboru] * | Treść (opis) pola; format \"\n"
+#~ "HTML jest tu dozwolony</em> gdzie:</p>\n"
+#~ "\t<p class=\"yp_legend\"><strong>[</strong> Otwierający nawias "
+#~ "kwadratowyt<br />\n"
+#~ "\t<strong>nazwa_pola_wyboru</strong> Nazwa - wyłącznie litery i "
+#~ "podkreślniki ( _ ); żadnych spacji, cyfr lub znaków specjalnych wyłącznie "
+#~ "czysty tekst<br />\n"
+#~ "\t<strong>]</strong> Zamykający nawias kwadratowy<br />\n"
+#~ "\t<strong class=\"yp_star\">*</strong> Jeśli zaznaczenie pola (checkboxa) "
+#~ "jest wymagane, dodaj gwiazdkę tuż po zamykającym nawiasie kwadratowym<br /"
+#~ ">\n"
+#~ "\t<strong>|</strong> Kreska pionowa (pipe) do oddzielenia nazwy od treści "
+#~ "pola wyboru<br />\n"
+#~ "\t<strong>Treść pola (checkboxa)</strong> - dozwolony jest format HTML. "
+#~ "NIE WKLEJAJ treści z innych edytorów (np. Worda), które wraz z kopiowanym "
+#~ "tekstem przenoszą ukryte elementy HTML</p></div>"
+
+#~ msgid "Agreement checkboxes settings"
+#~ msgstr "Pola wyboru zgód - opcje"
+
+#~ msgid "Checkboxes / Double validation"
+#~ msgstr "Pola wyboru zgód / Opcja podwójnego hasła"
+
+#~ msgid "Checkboxes"
+#~ msgstr "Pola wyboru zgód"
+
+#~ msgid "Edit agreement checkboxes"
+#~ msgstr "Edytuj pola zgód"
+
+#~ msgid ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t\t\t\t\t\t<p>Every entry is to be stored in a separate line.<br /"
+#~ ">Format the checkboxes by following this pattern:\n"
+#~ "\t\t\t\t\t\t<br><em>[checkbox_name] * |  Description, regular HTML is "
+#~ "allowed here</em> where:</p>\n"
+#~ "\t\t\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Opening square "
+#~ "bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong>checkbox_name</strong> Checkbox name - only letter "
+#~ "and underscores ( _ ); no spaces, numbers, special characters - just "
+#~ "plain text<br />\n"
+#~ "\t\t\t\t\t\t<strong>]</strong> Closing square bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong class=\"yp_star\">*</strong> If the checkbox is "
+#~ "mandatory to be checked enter asterisk right after closing bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong>|</strong> The pipe character to separate checkbox "
+#~ "name from checkbox content<br />\n"
+#~ "\t\t\t\t\t\t<strong>checkbox copy</strong> - regular HTML is allowed "
+#~ "here. Do NOT copy text from other visual editors as they tend to attach "
+#~ "hidden elements along with the text</p></div>"
+#~ msgstr ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t\t\t\t\t\t<p>Każde pole (checkbox) musi być opisany w osobnej linii."
+#~ "<br />Zapisz pola wyboru wg poniższego wzoru:\n"
+#~ "\t\t\t\t\t\t<br><em>[nazwa_pola_wyboru] * | Treść (opis) pola; format "
+#~ "HTML jest tu dozwolony</em> gdzie:</p>\n"
+#~ "\t\t\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Otwierający nawias "
+#~ "kwadratowy<br />\n"
+#~ "\t\t\t\t\t\t<strong>nazwa_pola_wyboru</strong> Nazwa - wyłącznie litery i "
+#~ "podkreślniki ( _ ); żadnych spacji, cyfr lub znaków specjalnych wyłącznie "
+#~ "czysty tekst<br />\n"
+#~ "\t\t\t\t\t\t<strong>]</strong> Zamykający nawias kwadratowy<br />\n"
+#~ "\t\t\t\t\t\t<strong class=\"yp_star\">*</strong> Jeśli zaznaczenie pola "
+#~ "(checkboxa) jest wymagane, dodaj gwiazdkę tuż po zamykającym nawiasie "
+#~ "kwadratowym<br />\n"
+#~ "\t\t\t\t\t\t<strong>|</strong> Kreska pionowa (pipe) do oddzielenia nazwy "
+#~ "od treści pola wyboru<br />\n"
+#~ "\t\t\t\t\t\t<strong>Treść pola (checkboxa)</strong> - dozwolony jest "
+#~ "format HTML. NIE WKLEJAJ treści z innych edytorów (np. Worda), które wraz "
+#~ "z kopiowanym tekstem przenoszą ukryte elementy HTML</p></div>"
+
+#~ msgid ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t\t\t\t\t\t<p>Every entry is to be stored in a separate line.<br /"
+#~ ">Format the checkboxes by following this pattern:</p>\n"
+#~ "\t\t\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Opening square "
+#~ "bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong>checkbox_name</strong> Checkbox name - only letter "
+#~ "and underscores ( _ ); no spaces, numbers, special characters - just "
+#~ "plain text<br />\n"
+#~ "\t\t\t\t\t\t<strong>]</strong> Closing square bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong class=\"yp_star\">*</strong> If the checkbox is "
+#~ "mandatory to be checked enter asterisk right after closing bracket<br />\n"
+#~ "\t\t\t\t\t\t<strong>|</strong> The pipe character to separate checkbox "
+#~ "name from checkbox content<br />\n"
+#~ "\t\t\t\t\t\t<strong>checkbox copy</strong> - regular HTML is allowed "
+#~ "here. Do NOT copy text from other visual editors as they tend to attach "
+#~ "hidden elements along with the text</p></div>"
+#~ msgstr ""
+#~ "<div class=\"yp_checkboxes_legend\">\n"
+#~ "\t\t\t\t\t\t<p>Każde pole (checkbox) musi być opisany w osobnej linii."
+#~ "<br />Zapisz pola wyboru wg poniższego wzoru:</p>\n"
+#~ "\t\t\t\t\t\t<p class=\"yp_legend\"><strong>[</strong> Otwierający nawias "
+#~ "kwadratowy<br />\n"
+#~ "\t\t\t\t\t\t<strong>nazwa_pola_wyboru</strong> Nazwa - wyłącznie litery i "
+#~ "podkreślniki ( _ ); żadnych spacji, cyfr lub znaków specjalnych wyłącznie "
+#~ "czysty tekst<br />\n"
+#~ "\t\t\t\t\t\t<strong>]</strong> Zamykający nawias kwadratowy<br />\n"
+#~ "\t\t\t\t\t\t<strong class=\"yp_star\">*</strong> Jeśli zaznaczenie pola "
+#~ "(checkboxa) jest wymagane, dodaj gwiazdkę tuż po zamykającym nawiasie "
+#~ "kwadratowym<br />\n"
+#~ "\t\t\t\t\t\t<strong>|</strong> Kreska pionowa (pipe) do oddzielenia nazwy "
+#~ "od treści pola wyboru<br />\n"
+#~ "\t\t\t\t\t\t<strong>Treść pola (checkboxa)</strong> - dozwolony jest "
+#~ "format HTML. NIE WKLEJAJ treści z innych edytorów (np. Worda), które wraz "
+#~ "z kopiowanym tekstem przenoszą ukryte elementy HTML</p></div>"
+
+#~ msgid "Some text"
+#~ msgstr "dupa jasiu"
+
+#~ msgid "Display on the Front"
+#~ msgstr "Wyświetlić na stronie"
